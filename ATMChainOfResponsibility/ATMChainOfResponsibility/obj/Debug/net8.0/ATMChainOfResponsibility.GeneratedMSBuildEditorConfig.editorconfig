@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ATMChainOfResponsibility
-build_property.ProjectDir = C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\ATMChainOfResponsibility\ATMChainOfResponsibility\
+build_property.ProjectDir = C:\Users\Admin\Documents\GitHub\ATM\ATMChainOfResponsibility\ATMChainOfResponsibility\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

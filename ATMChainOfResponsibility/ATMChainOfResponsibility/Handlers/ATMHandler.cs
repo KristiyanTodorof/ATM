@@ -15,6 +15,6 @@ namespace ATMChainOfResponsibility.Handler
         {
             this._successor = successor;
         }
-        public abstract void HandleRequest(ATMRequest request);
+        public abstract void HandleRequest(ATMRequest request, decimal balance, ref decimal newBalance, ref bool handled);
     }
 }

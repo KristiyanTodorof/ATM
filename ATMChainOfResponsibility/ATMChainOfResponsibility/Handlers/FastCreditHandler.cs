@@ -11,21 +11,27 @@ namespace ATMChainOfResponsibility.Handlers
 {
     public class FastCreditHandler : ATMHandler
     {
-        public override void HandleRequest(ATMRequest request)
+        public override void HandleRequest(ATMRequest request, decimal balance, ref decimal newBalance, ref bool handled)
         {
             if (request.TransactionType == "FastCredit")
             {
-                decimal maxCredit = request.CurrentBalance * 0.6m;
+                decimal creditRatio = GetCreditRatioByClientType(request.Client.Type);
+                decimal maxCredit = balance * creditRatio;
 
                 if (request.RequestAmount <= maxCredit)
                 {
+                    newBalance = balance + request.RequestAmount;
+
                     Console.WriteLine($"Fast Credit approved for: ${request.RequestAmount}");
-                    Console.WriteLine($"Your total balance after credit: ${request.CurrentBalance + request.RequestAmount}");
+                    Console.WriteLine($"Your total balance after credit: ${newBalance}");
                     Console.WriteLine("Note: Interest will apply to this credit amount.");
+
+                    handled = true;
                 }
                 else
                 {
-                    decimal reducedOffer = request.RequestAmount * 0.7m;
+                    decimal reducedOfferRatio = GetReducedOfferRatioByClientType(request.Client.Type);
+                    decimal reducedOffer = request.RequestAmount * reducedOfferRatio;
 
                     if (reducedOffer <= maxCredit)
                     {
@@ -37,9 +43,13 @@ namespace ATMChainOfResponsibility.Handlers
 
                         if (userResponse == "Yes")
                         {
+                            newBalance = balance + reducedOffer;
+
                             Console.WriteLine($"Fast Credit approved for: ${reducedOffer}");
-                            Console.WriteLine($"Your total balance after credit: ${request.CurrentBalance + reducedOffer}");
+                            Console.WriteLine($"Your total balance after credit: ${newBalance}");
                             Console.WriteLine("Note: Interest will apply to this credit amount.");
+
+                            handled = true;
                         }
                         else
                         {
@@ -55,11 +65,35 @@ namespace ATMChainOfResponsibility.Handlers
             }
             else if (_successor != null)
             {
-                // If it's not a fast credit request, pass to the next handler
-                _successor.HandleRequest(request);
+                _successor.HandleRequest(request, balance, ref newBalance, ref handled);
             }
-
         }
 
+        private decimal GetCreditRatioByClientType(ClientType type)
+        {
+            switch (type)
+            {
+                case ClientType.Premium:
+                    return 0.75m;  
+                case ClientType.Business:
+                    return 0.85m; 
+                default:
+                    return 0.60m;
+            }
+        }
+
+        private decimal GetReducedOfferRatioByClientType(ClientType type)
+        {
+            switch (type)
+            {
+                case ClientType.Premium:
+                    return 0.80m;  // Premium clients get 80% of requested amount as reduced offer
+                case ClientType.Business:
+                    return 0.85m;  // Business clients get 85% of requested amount as reduced offer
+                default:
+                    return 0.70m;  // Regular clients get 70% of requested amount as reduced offer
+            }
+        }
     }
+   
 }

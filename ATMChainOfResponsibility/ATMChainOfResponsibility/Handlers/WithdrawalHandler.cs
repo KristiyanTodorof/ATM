@@ -10,34 +10,42 @@ namespace ATMChainOfResponsibility.Handlers
 {
     public class WithdrawalHandler : ATMHandler
     {
-        public override void HandleRequest(ATMRequest request)
+        public override void HandleRequest(ATMRequest request, decimal balance, ref decimal newBalance, ref bool handled)
         {
-            if(request.TransactionType == "Withdrawal")
+            if (request.TransactionType == "Withdrawal")
             {
-                if(request.RequestAmount <= request.CurrentBalance)
+                if (request.RequestAmount <= balance)
                 {
-                    decimal newBalance = request.CurrentBalance - request.RequestAmount;
+                    newBalance = balance - request.RequestAmount;
+
                     Console.WriteLine($"Withdrawal successful: ${request.RequestAmount}");
                     Console.WriteLine($"Remaining balance: ${newBalance}");
+
+                    handled = true;
                 }
                 else
                 {
-                    Console.WriteLine("Insufficient fund for withdrawal.");
+                    Console.WriteLine("Insufficient funds for withdrawal.");
 
                     if (_successor != null)
                     {
                         Console.WriteLine("Checking if you qualify for Fast Credit...");
 
-                        ATMRequest fastCreditRequest = new ATMRequest("FastCredit",request.RequestAmount, request.CurrentBalance);
+                        ATMRequest fastCreditRequest = new ATMRequest(
+                            "FastCredit",
+                            request.RequestAmount,
+                            request.Client
+                        );
 
-                        _successor.HandleRequest(fastCreditRequest);
+                        _successor.HandleRequest(fastCreditRequest, balance, ref newBalance, ref handled);
                     }
                 }
             }
             else if (_successor != null)
             {
-                _successor.HandleRequest(request);
+                _successor.HandleRequest(request, balance, ref newBalance, ref handled);
             }
         }
+
     }
 }

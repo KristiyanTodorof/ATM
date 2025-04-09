@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\ATMChainOfResponsibility\\ATMChainOfResponsibility\\ATMChainOfResponsibility.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\ATM\\ATMChainOfResponsibility\\ATMChainOfResponsibility\\ATMChainOfResponsibility.csproj",
       "projectName": "ATMChainOfResponsibility",
-      "projectPath": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\ATMChainOfResponsibility\\ATMChainOfResponsibility\\ATMChainOfResponsibility.csproj",
+      "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\ATM\\ATMChainOfResponsibility\\ATMChainOfResponsibility\\ATMChainOfResponsibility.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\ATMChainOfResponsibility\\ATMChainOfResponsibility\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\ATM\\ATMChainOfResponsibility\\ATMChainOfResponsibility\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -10,7 +10,7 @@ namespace ATMChainOfResponsibility.Handlers
 {
     public class AuthenticationHandler : ATMHandler
     {
-        public override void HandleRequest(ATMRequest request)
+        public override void HandleRequest(ATMRequest request, decimal balance, ref decimal newBalance, ref bool handled)
         {
             Console.WriteLine($"Authenticating client: {request.Client.Name}");
 
@@ -18,7 +18,7 @@ namespace ATMChainOfResponsibility.Handlers
 
             if (_successor != null)
             {
-                _successor.HandleRequest(request);
+                _successor.HandleRequest( request, balance, ref newBalance, ref handled);
             }
         }
     }

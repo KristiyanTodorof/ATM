@@ -10,13 +10,13 @@ namespace ATMChainOfResponsibility.Models
     {
         public string TransactionType { get; set; }
         public decimal RequestAmount { get; set; }
-        public decimal CurrentBalance { get; set; }
+        public Client Client { get; set; }
 
-        public ATMRequest(string transactionType, decimal requestAmount, decimal currentBalance)
+        public ATMRequest(string transactionType, decimal requestAmount, Client client)
         {
             this.TransactionType = transactionType;
             this.RequestAmount = requestAmount;
-            this.CurrentBalance = currentBalance;
+            this.Client = client;
         }
     }
 }

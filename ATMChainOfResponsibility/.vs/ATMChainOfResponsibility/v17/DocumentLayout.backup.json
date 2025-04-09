@@ -1,34 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\ATMChainOfResponsibility\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\GitHub\\ATM\\ATMChainOfResponsibility\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB300F60-220A-4D61-966A-58B701204879}|ATMChainOfResponsibility\\ATMChainOfResponsibility.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\atmchainofresponsibility\\atmchainofresponsibility\\handlers\\authenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB300F60-220A-4D61-966A-58B701204879}|ATMChainOfResponsibility\\ATMChainOfResponsibility.csproj|solutionrelative:atmchainofresponsibility\\handlers\\authenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB300F60-220A-4D61-966A-58B701204879}|ATMChainOfResponsibility\\ATMChainOfResponsibility.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\atmchainofresponsibility\\atmchainofresponsibility\\handlers\\atmhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB300F60-220A-4D61-966A-58B701204879}|ATMChainOfResponsibility\\ATMChainOfResponsibility.csproj|solutionrelative:atmchainofresponsibility\\handlers\\atmhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB300F60-220A-4D61-966A-58B701204879}|ATMChainOfResponsibility\\ATMChainOfResponsibility.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\atmchainofresponsibility\\atmchainofresponsibility\\models\\atmrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB300F60-220A-4D61-966A-58B701204879}|ATMChainOfResponsibility\\ATMChainOfResponsibility.csproj|solutionrelative:atmchainofresponsibility\\models\\atmrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB300F60-220A-4D61-966A-58B701204879}|ATMChainOfResponsibility\\ATMChainOfResponsibility.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\atmchainofresponsibility\\atmchainofresponsibility\\core\\atmmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB300F60-220A-4D61-966A-58B701204879}|ATMChainOfResponsibility\\ATMChainOfResponsibility.csproj|solutionrelative:atmchainofresponsibility\\core\\atmmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB300F60-220A-4D61-966A-58B701204879}|ATMChainOfResponsibility\\ATMChainOfResponsibility.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\atmchainofresponsibility\\atmchainofresponsibility\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AB300F60-220A-4D61-966A-58B701204879}|ATMChainOfResponsibility\\ATMChainOfResponsibility.csproj|c:\\users\\admin\\documents\\github\\atm\\atmchainofresponsibility\\atmchainofresponsibility\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB300F60-220A-4D61-966A-58B701204879}|ATMChainOfResponsibility\\ATMChainOfResponsibility.csproj|solutionrelative:atmchainofresponsibility\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB300F60-220A-4D61-966A-58B701204879}|ATMChainOfResponsibility\\ATMChainOfResponsibility.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\atmchainofresponsibility\\atmchainofresponsibility\\handlers\\fastcredithandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AB300F60-220A-4D61-966A-58B701204879}|ATMChainOfResponsibility\\ATMChainOfResponsibility.csproj|c:\\users\\admin\\documents\\github\\atm\\atmchainofresponsibility\\atmchainofresponsibility\\core\\atmmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB300F60-220A-4D61-966A-58B701204879}|ATMChainOfResponsibility\\ATMChainOfResponsibility.csproj|solutionrelative:atmchainofresponsibility\\core\\atmmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB300F60-220A-4D61-966A-58B701204879}|ATMChainOfResponsibility\\ATMChainOfResponsibility.csproj|c:\\users\\admin\\documents\\github\\atm\\atmchainofresponsibility\\atmchainofresponsibility\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB300F60-220A-4D61-966A-58B701204879}|ATMChainOfResponsibility\\ATMChainOfResponsibility.csproj|solutionrelative:atmchainofresponsibility\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB300F60-220A-4D61-966A-58B701204879}|ATMChainOfResponsibility\\ATMChainOfResponsibility.csproj|c:\\users\\admin\\documents\\github\\atm\\atmchainofresponsibility\\atmchainofresponsibility\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB300F60-220A-4D61-966A-58B701204879}|ATMChainOfResponsibility\\ATMChainOfResponsibility.csproj|solutionrelative:atmchainofresponsibility\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB300F60-220A-4D61-966A-58B701204879}|ATMChainOfResponsibility\\ATMChainOfResponsibility.csproj|c:\\users\\admin\\documents\\github\\atm\\atmchainofresponsibility\\atmchainofresponsibility\\models\\atmresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB300F60-220A-4D61-966A-58B701204879}|ATMChainOfResponsibility\\ATMChainOfResponsibility.csproj|solutionrelative:atmchainofresponsibility\\models\\atmresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB300F60-220A-4D61-966A-58B701204879}|ATMChainOfResponsibility\\ATMChainOfResponsibility.csproj|c:\\users\\admin\\documents\\github\\atm\\atmchainofresponsibility\\atmchainofresponsibility\\models\\atmrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB300F60-220A-4D61-966A-58B701204879}|ATMChainOfResponsibility\\ATMChainOfResponsibility.csproj|solutionrelative:atmchainofresponsibility\\models\\atmrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB300F60-220A-4D61-966A-58B701204879}|ATMChainOfResponsibility\\ATMChainOfResponsibility.csproj|c:\\users\\admin\\documents\\github\\atm\\atmchainofresponsibility\\atmchainofresponsibility\\handlers\\fastcredithandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB300F60-220A-4D61-966A-58B701204879}|ATMChainOfResponsibility\\ATMChainOfResponsibility.csproj|solutionrelative:atmchainofresponsibility\\handlers\\fastcredithandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB300F60-220A-4D61-966A-58B701204879}|ATMChainOfResponsibility\\ATMChainOfResponsibility.csproj|c:\\users\\admin\\documents\\uni\\secondyear\\fourthsemester\\dp\\atmchainofresponsibility\\atmchainofresponsibility\\handlers\\withdrawalhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AB300F60-220A-4D61-966A-58B701204879}|ATMChainOfResponsibility\\ATMChainOfResponsibility.csproj|c:\\users\\admin\\documents\\github\\atm\\atmchainofresponsibility\\atmchainofresponsibility\\handlers\\withdrawalhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB300F60-220A-4D61-966A-58B701204879}|ATMChainOfResponsibility\\ATMChainOfResponsibility.csproj|solutionrelative:atmchainofresponsibility\\handlers\\withdrawalhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB300F60-220A-4D61-966A-58B701204879}|ATMChainOfResponsibility\\ATMChainOfResponsibility.csproj|c:\\users\\admin\\documents\\github\\atm\\atmchainofresponsibility\\atmchainofresponsibility\\core\\atmnetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB300F60-220A-4D61-966A-58B701204879}|ATMChainOfResponsibility\\ATMChainOfResponsibility.csproj|solutionrelative:atmchainofresponsibility\\core\\atmnetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB300F60-220A-4D61-966A-58B701204879}|ATMChainOfResponsibility\\ATMChainOfResponsibility.csproj|c:\\users\\admin\\documents\\github\\atm\\atmchainofresponsibility\\atmchainofresponsibility\\handlers\\atmhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB300F60-220A-4D61-966A-58B701204879}|ATMChainOfResponsibility\\ATMChainOfResponsibility.csproj|solutionrelative:atmchainofresponsibility\\handlers\\atmhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB300F60-220A-4D61-966A-58B701204879}|ATMChainOfResponsibility\\ATMChainOfResponsibility.csproj|c:\\users\\admin\\documents\\github\\atm\\atmchainofresponsibility\\atmchainofresponsibility\\handlers\\authenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB300F60-220A-4D61-966A-58B701204879}|ATMChainOfResponsibility\\ATMChainOfResponsibility.csproj|solutionrelative:atmchainofresponsibility\\handlers\\authenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,92 +54,147 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
+              "Title": "ATMNetwork.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\ATM\\ATMChainOfResponsibility\\ATMChainOfResponsibility\\Core\\ATMNetwork.cs",
+              "RelativeDocumentMoniker": "ATMChainOfResponsibility\\Core\\ATMNetwork.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\ATM\\ATMChainOfResponsibility\\ATMChainOfResponsibility\\Core\\ATMNetwork.cs",
+              "RelativeToolTip": "ATMChainOfResponsibility\\Core\\ATMNetwork.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T06:44:46.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ATMResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\ATM\\ATMChainOfResponsibility\\ATMChainOfResponsibility\\Models\\ATMResponse.cs",
+              "RelativeDocumentMoniker": "ATMChainOfResponsibility\\Models\\ATMResponse.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\ATM\\ATMChainOfResponsibility\\ATMChainOfResponsibility\\Models\\ATMResponse.cs",
+              "RelativeToolTip": "ATMChainOfResponsibility\\Models\\ATMResponse.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T06:05:51.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\ATM\\ATMChainOfResponsibility\\ATMChainOfResponsibility\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "ATMChainOfResponsibility\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\ATM\\ATMChainOfResponsibility\\ATMChainOfResponsibility\\Models\\Transaction.cs",
+              "RelativeToolTip": "ATMChainOfResponsibility\\Models\\Transaction.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T05:55:39.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\ATM\\ATMChainOfResponsibility\\ATMChainOfResponsibility\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "ATMChainOfResponsibility\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\ATM\\ATMChainOfResponsibility\\ATMChainOfResponsibility\\Models\\Client.cs",
+              "RelativeToolTip": "ATMChainOfResponsibility\\Models\\Client.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T05:55:19.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "AuthenticationHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\ATMChainOfResponsibility\\ATMChainOfResponsibility\\Handlers\\AuthenticationHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\ATM\\ATMChainOfResponsibility\\ATMChainOfResponsibility\\Handlers\\AuthenticationHandler.cs",
               "RelativeDocumentMoniker": "ATMChainOfResponsibility\\Handlers\\AuthenticationHandler.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\ATMChainOfResponsibility\\ATMChainOfResponsibility\\Handlers\\AuthenticationHandler.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\ATM\\ATMChainOfResponsibility\\ATMChainOfResponsibility\\Handlers\\AuthenticationHandler.cs",
               "RelativeToolTip": "ATMChainOfResponsibility\\Handlers\\AuthenticationHandler.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAgwBQAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-09T05:36:59.143Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\ATMChainOfResponsibility\\ATMChainOfResponsibility\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\ATM\\ATMChainOfResponsibility\\ATMChainOfResponsibility\\Program.cs",
               "RelativeDocumentMoniker": "ATMChainOfResponsibility\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\ATMChainOfResponsibility\\ATMChainOfResponsibility\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\ATM\\ATMChainOfResponsibility\\ATMChainOfResponsibility\\Program.cs",
               "RelativeToolTip": "ATMChainOfResponsibility\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T17:17:52.102Z"
+              "WhenOpened": "2025-04-08T17:17:52.102Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "ATMMachine.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\ATMChainOfResponsibility\\ATMChainOfResponsibility\\Core\\ATMMachine.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\ATM\\ATMChainOfResponsibility\\ATMChainOfResponsibility\\Core\\ATMMachine.cs",
               "RelativeDocumentMoniker": "ATMChainOfResponsibility\\Core\\ATMMachine.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\ATMChainOfResponsibility\\ATMChainOfResponsibility\\Core\\ATMMachine.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\ATM\\ATMChainOfResponsibility\\ATMChainOfResponsibility\\Core\\ATMMachine.cs",
               "RelativeToolTip": "ATMChainOfResponsibility\\Core\\ATMMachine.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAUwDQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T17:14:29.421Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FastCreditHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\ATMChainOfResponsibility\\ATMChainOfResponsibility\\Handlers\\FastCreditHandler.cs",
-              "RelativeDocumentMoniker": "ATMChainOfResponsibility\\Handlers\\FastCreditHandler.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\ATMChainOfResponsibility\\ATMChainOfResponsibility\\Handlers\\FastCreditHandler.cs",
-              "RelativeToolTip": "ATMChainOfResponsibility\\Handlers\\FastCreditHandler.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAQwBgAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T06:56:28.751Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "WithdrawalHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\ATMChainOfResponsibility\\ATMChainOfResponsibility\\Handlers\\WithdrawalHandler.cs",
-              "RelativeDocumentMoniker": "ATMChainOfResponsibility\\Handlers\\WithdrawalHandler.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\ATMChainOfResponsibility\\ATMChainOfResponsibility\\Handlers\\WithdrawalHandler.cs",
-              "RelativeToolTip": "ATMChainOfResponsibility\\Handlers\\WithdrawalHandler.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwCYAAAAPAAAAAAAAAA==",
+              "Title": "FastCreditHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\ATM\\ATMChainOfResponsibility\\ATMChainOfResponsibility\\Handlers\\FastCreditHandler.cs",
+              "RelativeDocumentMoniker": "ATMChainOfResponsibility\\Handlers\\FastCreditHandler.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\ATM\\ATMChainOfResponsibility\\ATMChainOfResponsibility\\Handlers\\FastCreditHandler.cs",
+              "RelativeToolTip": "ATMChainOfResponsibility\\Handlers\\FastCreditHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T06:41:46.858Z"
+              "WhenOpened": "2025-04-02T06:56:28.751Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
+              "Title": "WithdrawalHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\ATM\\ATMChainOfResponsibility\\ATMChainOfResponsibility\\Handlers\\WithdrawalHandler.cs",
+              "RelativeDocumentMoniker": "ATMChainOfResponsibility\\Handlers\\WithdrawalHandler.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\ATM\\ATMChainOfResponsibility\\ATMChainOfResponsibility\\Handlers\\WithdrawalHandler.cs",
+              "RelativeToolTip": "ATMChainOfResponsibility\\Handlers\\WithdrawalHandler.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwCwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T06:41:46.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ATMRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\ATMChainOfResponsibility\\ATMChainOfResponsibility\\Models\\ATMRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\ATM\\ATMChainOfResponsibility\\ATMChainOfResponsibility\\Models\\ATMRequest.cs",
               "RelativeDocumentMoniker": "ATMChainOfResponsibility\\Models\\ATMRequest.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\ATMChainOfResponsibility\\ATMChainOfResponsibility\\Models\\ATMRequest.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\ATM\\ATMChainOfResponsibility\\ATMChainOfResponsibility\\Models\\ATMRequest.cs",
               "RelativeToolTip": "ATMChainOfResponsibility\\Models\\ATMRequest.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T06:39:53.407Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "ATMHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\ATMChainOfResponsibility\\ATMChainOfResponsibility\\Handlers\\ATMHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\ATM\\ATMChainOfResponsibility\\ATMChainOfResponsibility\\Handlers\\ATMHandler.cs",
               "RelativeDocumentMoniker": "ATMChainOfResponsibility\\Handlers\\ATMHandler.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\UNI\\SecondYear\\FourthSemester\\DP\\ATMChainOfResponsibility\\ATMChainOfResponsibility\\Handlers\\ATMHandler.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\ATM\\ATMChainOfResponsibility\\ATMChainOfResponsibility\\Handlers\\ATMHandler.cs",
               "RelativeToolTip": "ATMChainOfResponsibility\\Handlers\\ATMHandler.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T06:36:38.018Z",
               "EditorCaption": ""
