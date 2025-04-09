@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\ATMChainOfResponsibility\ATMChainOfResponsibility\bin\Debug\net8.0\ATMChainOfResponsibility.exe
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\ATMChainOfResponsibility\ATMChainOfResponsibility\bin\Debug\net8.0\ATMChainOfResponsibility.deps.json
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\ATMChainOfResponsibility\ATMChainOfResponsibility\bin\Debug\net8.0\ATMChainOfResponsibility.runtimeconfig.json
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\ATMChainOfResponsibility\ATMChainOfResponsibility\bin\Debug\net8.0\ATMChainOfResponsibility.dll
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\ATMChainOfResponsibility\ATMChainOfResponsibility\bin\Debug\net8.0\ATMChainOfResponsibility.pdb
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\ATMChainOfResponsibility\ATMChainOfResponsibility\obj\Debug\net8.0\ATMChainOfResponsibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\ATMChainOfResponsibility\ATMChainOfResponsibility\obj\Debug\net8.0\ATMChainOfResponsibility.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\ATMChainOfResponsibility\ATMChainOfResponsibility\obj\Debug\net8.0\ATMChainOfResponsibility.AssemblyInfo.cs
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\ATMChainOfResponsibility\ATMChainOfResponsibility\obj\Debug\net8.0\ATMChainOfResponsibility.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\ATMChainOfResponsibility\ATMChainOfResponsibility\obj\Debug\net8.0\ATMChainOfResponsibility.dll
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\ATMChainOfResponsibility\ATMChainOfResponsibility\obj\Debug\net8.0\refint\ATMChainOfResponsibility.dll
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\ATMChainOfResponsibility\ATMChainOfResponsibility\obj\Debug\net8.0\ATMChainOfResponsibility.pdb
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\ATMChainOfResponsibility\ATMChainOfResponsibility\obj\Debug\net8.0\ATMChainOfResponsibility.genruntimeconfig.cache
+C:\Users\Admin\Documents\UNI\SecondYear\FourthSemester\DP\ATMChainOfResponsibility\ATMChainOfResponsibility\obj\Debug\net8.0\ref\ATMChainOfResponsibility.dll
